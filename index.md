@@ -1,4 +1,8 @@
 # osvita-code project
-###### Ви можете переглянути наступні веб-сайти:
-* [Сайт зі scratch](http://bit.ly/siversk-scratch)
-* [Сайт з основ веб-програмування](http://bit.ly/siversk-web)
+
+## Проєкт з навчання скретчу та веб програмуванню дітей
+
+## Ви можете переглянути наступні веб-сайти:
+
+### [Сайт зі scratch](https://osvita-code.github.io/scratch/)
+### [Сайт з основ веб-програмування](https://osvita-code.github.io/web/)
