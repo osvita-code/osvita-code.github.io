@@ -1,4 +1,5 @@
-![Візитка](./img/osvita_code_nametag.png =250x)
+![Візитка](./img/osvita_code_nametag.png =250x)   
+<img src="drawing.jpg" alt="drawing" width="200"/>
 
 ## Проєкт з навчання скретчу та веб-програмуванню
 
