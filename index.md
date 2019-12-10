@@ -1,6 +1,4 @@
-# osvita-code project
-
-![Візитка](./img/osvita_code_nametag.png)
+![Візитка](./img/osvita_code_nametag.png =250x)
 
 ## Проєкт з навчання скретчу та веб-програмуванню
 
