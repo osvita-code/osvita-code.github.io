@@ -4,4 +4,4 @@
 
 ## 1. [Сайт зі scratch](https://osvita-code.github.io/scratch/)
 ## 2. [Сайт з основ веб-програмування](https://osvita-code.github.io/web/)
-## 2. [Сайт з mbot ranger](https://osvita-code.github.io/robot/)
+## 3. [Сайт з mBot Ranger](https://osvita-code.github.io/robot/)
