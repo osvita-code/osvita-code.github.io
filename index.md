@@ -15,4 +15,8 @@
 ## 10. [ЛОВЕЦЬ КУЛЬОК](https://osvita-code.me/scratch/)
 
 # [Сайт з основ веб-програмування](https://osvita-code.github.io/web/)
+
 # [Сайт з mBot Ranger](https://osvita-code.github.io/robot/)
+
+## ВСТУП [ОЗНАЙОМЛЕННЯ З mBot Ranger](https://osvita-code.me/robot/page2/)
+## 1. [МИШЕНЯ ЛЮБИТЬ ЯБЛУКА](https://osvita-code.me/robot/)
